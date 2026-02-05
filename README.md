@@ -1,3 +1,1 @@
-C
-0.x -------------- 8 or higher
-Sawteeth wave      Sine wave
+C: 0.5(sawteeh)~8(sine)
